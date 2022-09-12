@@ -39,6 +39,7 @@ We will create a website by first creating an HTML page. Let's name it index.htm
 
 ### :keyboard: Activity: Upload your changes  
 
+In your GitHub Desktop application
 1. Click **Commit to main**.
 1. Click **Push origin**.
 1. Wait about 20 seconds then refresh your site to see your changes.
