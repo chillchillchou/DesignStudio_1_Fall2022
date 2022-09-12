@@ -40,8 +40,8 @@ We will create a website by first creating an HTML page. Let's name it index.htm
 ### :keyboard: Activity: Upload your changes  
 
 1. Click **Commit to main**.
-1. Click **Push Origin**.
-1. Wait about 20 seconds then refresh this page for the next step.
+1. Click **Push origin**.
+1. Wait about 20 seconds then refresh your site to see your changes.
 
 </details>
 
