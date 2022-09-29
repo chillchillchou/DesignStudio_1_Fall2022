@@ -1,0 +1,93 @@
+        body {
+/*            background-color: #FDF398;*/
+        }
+
+        h1 {
+            position: absolute;
+            width: 560.8px;
+            height: 578.97px;
+            left: 79.6px;
+            top: 239.49px;
+
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 47px;
+
+            color: #EF5424;
+        }
+
+        h2 {
+            position: absolute;
+            width: 560.8px;
+            height: 38px;
+            left: 79.6px;
+            top: 287.75px;
+
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 35px;
+            line-height: 44px;
+
+            color: #EF5424;
+        }
+
+        h3 {
+            position: absolute;
+            width: 560.8px;
+            height: 578.97px;
+            left: 79.6px;
+            top: 391.54px;
+
+            font-family: 'Source Sans Pro';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 25px;
+            line-height: 31px;
+
+            color: #EF5424;
+        }
+
+        p1 {
+            position: absolute;
+            width: 217.62px;
+            height: 26.77px;
+            left: 971.19px;
+            top: 671.1px;
+
+            font-family: 'Source Sans Pro';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 31px;
+
+            color: #EF5424;
+
+        }
+
+        #on-a-fence {
+            position: absolute;
+            width: 570.97px;
+            height: 254.52px;
+            left: 794.51px;
+            top: 378.02px;
+        }
+#left {
+    width:50%;
+    height:1000px;
+    background-color: yellow;
+    
+}
+
+#right {
+    width:50%;
+    height:1000px;
+    background-color:aqua;
+    
+}
+
+#canvas {
+    display: flex;
+}
